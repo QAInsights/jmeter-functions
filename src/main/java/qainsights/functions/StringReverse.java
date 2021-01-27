@@ -1,4 +1,4 @@
-package Sum.functions;
+package qainsights.functions;
 
 import org.apache.jmeter.engine.util.CompoundVariable;
 import org.apache.jmeter.functions.AbstractFunction;
